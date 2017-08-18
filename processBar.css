@@ -1,0 +1,9 @@
+.pro-bar-now,.pro-bar-total,.pro-cycle {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translateY(-50%);
+}
+.pro-cycle {
+    cursor: pointer;
+}
